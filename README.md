@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hello, I'm Cristhian Sanchez a.k.a Difusal      <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+## Hello, I'm Cristhian Sanchez a.k.a Difusal      
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -14,7 +14,9 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 - I’m full stack developer
+- My favorite Javascript framework is Vue 🤠
 - I’m currently learning Flutter and React
+- I have worked in a couple marketing Agencies using PHP/Wordpress/Vue
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I have a degree in economics
