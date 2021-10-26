@@ -13,14 +13,14 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m full stack developer
+- I’m full stack developer 😎
 - My favorite Javascript framework is Vue 🤠
-- I’m currently learning Flutter and React
-- I have worked in a couple marketing Agencies using PHP/Wordpress/Vue
-- I’m looking to collaborate on anything!
-- Ask me about anything, I am happy to help.
-- Fun-Fact: I have a degree in economics
-
+- I’m currently learning Flutter and React 👀
+- I have worked in a couple marketing Agencies using PHP/Wordpress/Vue ⭐
+- I’m looking to collaborate on anything! 🤩
+- Ask me about anything, I am happy to help. 😃
+- Check my repositores! I have made a lot of projects 🤡
+- Fun-Fact: I have a degree in economics 🧐
 ---
 
 **Languages and Tools:**
