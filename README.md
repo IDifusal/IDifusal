@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hello, I'm Cristhian Sanchez a.k.a Difusal
+## Hello, I'm Cristhian Sanchez a.k.a Difusal      <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -45,6 +45,7 @@ You can use the website to generate badges: https://shields.io/
    <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+      <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
   <br />
 
 
