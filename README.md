@@ -14,8 +14,9 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 - I’m full stack developer 😎
-- My favorite Javascript framework is Vue 🤠
-- I’m currently learning Flutter and React 👀
+- My favorite Javascript framework is Vue & Angular🤠
+- For mobile development i use Flutter  🤠
+- I’m currently learning Nest.js 👀
 - I have worked in a couple marketing Agencies using PHP/Wordpress/Vue ⭐
 - I’m looking to collaborate on anything! 🤩
 - Ask me about anything, I am happy to help. 😃
